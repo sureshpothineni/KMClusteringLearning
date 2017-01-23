@@ -1,0 +1,5 @@
+C:/Users/sxk0hg8/workspace/scala/sparkMlibPOCs/src/main/resources/kmClusteringColumns1.txt#4#500#All columns with high +ve and -ve correlation
+C:/Users/sxk0hg8/workspace/scala/sparkMlibPOCs/src/main/resources/kmClusteringColumns2.txt#4#300#All +vely correlated columns
+C:/Users/sxk0hg8/workspace/scala/sparkMlibPOCs/src/main/resources/kmClusteringColumns3.txt#4#500#All -vely correlated columns
+C:/Users/sxk0hg8/workspace/scala/sparkMlibPOCs/src/main/resources/kmClusteringColumns4.txt#4#800#All columns with mimimal correlation
+C:/Users/sxk0hg8/workspace/scala/sparkMlibPOCs/src/main/resources/kmClusteringColumns5.txt#5#1000#Columns that we think are important-manual
